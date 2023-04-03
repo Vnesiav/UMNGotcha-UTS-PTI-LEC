@@ -16,3 +16,12 @@
 5. Sleep akan membuat pet tidur. <br>
 6. Medicine akan memberi obat ke pet saat status Hunger, Mood, dan Sleep low yang mana berpengaruh ke status Health. Medicine di sini akan membantu peningkatan status Health.<br>
 
+Link yt:
+https://youtu.be/vCgEnHAehJI
+
+Github:
+- 00000067456 - Angelima Khosina https://github.com/angelimakhosina/UTS-PTI-LEC.git
+- 00000067471 - Christian Yoga Shandy Kurniadi https://github.com/christianyoga13/UTS.git
+- 00000065448 - Ryu Ivan Wijaya https://github.com/Ryuivan/UTS.git
+- 00000065031 - Vianca Vanesia Barhan https://github.com/Vnesiav/UMNGotcha-UTS-PTI-LEC.git
+- 00000067030 - Walter Adrian Samuel  https://github.com/XLianC/UTS.git
